@@ -6,7 +6,7 @@ The end-goal is to maintain feature parity with the [graphql.js](https://github.
 
 For more complete documentation on GraphQL, check out [https://graphql.org/](https://graphql.org/).
 
-![Velocigraphtor Logo][./assets/logo/velocigraphtor_logo.png]
+![Velocigraphtor Logo](./assets/logo/velocigraphtor_logo.png "Velocigraphtor Logo")
 
 ## Status
 
